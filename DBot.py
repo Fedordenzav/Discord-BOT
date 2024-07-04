@@ -82,5 +82,5 @@ async def guess_number(ctx, user_guess: int):
 
 
 
-bot.run("MTI1NDQyMzc3MjA0MDEzNDgxNw.GTEjxp.IgNDUhhDYPGdIjQ6D_CjfF5YfbdHr1mW-w8E-k")
+bot.run("NOOOO")
 
